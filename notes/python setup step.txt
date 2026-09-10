@@ -1,0 +1,19 @@
+1.uninstall core python with backup(control panel)
+2.install python with customized option
+	-add to local path(true)
+	-now click on customized installation
+	-now click on all user
+	-now click on option
+	-python install remove the program file and setup on C file
+	-then install python
+	
+	
+static in under
+-css,fonts,img,js,scss
+
+setting.py ma static ne call karo
+TSATICFILES_DIRS=[
+	BASE_DIR,"static"
+]
+
+/static/

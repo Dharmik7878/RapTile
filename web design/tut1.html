@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>css display property</title>
+    <style>
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+      .box {
+        border: 3px solid blue;
+        display: inline-flex;
+        justify-content: center;
+        padding: 30px;
+        margin: 20px;
+      }
+      .boxx {
+        border: 3px solid blue;
+        display: inline-block;
+        padding: 30px;
+        margin: 20px;
+      }
+      .shadow {
+        border: 3px solid red;
+        padding: 30px;
+        margin: 20px;
+        box-shadow: 14px 12px 12px 0px rgb(115, 163, 115);
+      }
+      .tshadow {
+        border: 3px solid blue;
+        padding: 30px;
+        margin: 20px;
+        text-shadow: 3px 3px 5px red;
+        outline: 2px solid red;
+      }
+      .box0 {
+        width: 20vw;
+        height: 21vh;
+        border: 3px solid black;
+        /* overflow: scroll; */
+        /* overflow: hidden; */
+        overflow: auto;
+        white-space: nowrap;
+        /* overflow:  hidden auto; */
+        text-overflow: ellipsis;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">this is box</div>
+    <div class="boxx">this is second box</div>
+    <span> i am a good </span>
+    <span> boy </span>
+    <div class="shadow">this is box</div>
+    <div class="tshadow">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur,
+      blanditiis tempore quae praesentium ullam perspiciatis aliquam dolor
+      doloremque odio deserunt dolores alias distinctio beatae consequatur
+      deleniti facere, eveniet accusantium voluptatem.
+    </div>
+    <div class="box0">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, reiciendis!
+      Dolorum sint dolor error, rerum pariatur numquam, aut porro reiciendis
+      ipsam rem sit! Laboriosam placeat nisi vero pariatur, reiciendis quos!
+    </div>
+    
+  </body>
+</html>

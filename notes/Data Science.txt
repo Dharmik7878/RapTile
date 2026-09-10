@@ -1,0 +1,19 @@
+Data Science:
+
+agenda
+
+1. introduction to data science
+2. statistics or probability
+3. basic of machine learning 
+4. linear regression
+5. logistic regression
+6. decision trees
+7. random forest
+8. k nearest neighbour
+9. naive bayes
+10. support vector machine
+11. k means clustering
+12. association rule mining
+13. reinforcement learning
+14. deep learning
+15. data science interview
