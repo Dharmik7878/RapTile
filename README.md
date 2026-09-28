@@ -1,2 +1,4 @@
 # RapTile
-This is my RapTile coding industry
+Welcome to the RapTile Coding Industry, 
+Keep learning and Keep exploring, 
+Don't care about destination, enjoy the journey
