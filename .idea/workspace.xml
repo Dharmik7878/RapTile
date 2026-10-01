@@ -5,57 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8a6bcab-9fb8-49a0-b50f-77eb4934f9c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/RAP TILE-18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/RAP TILE-18.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/01_python.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/02_string.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/03_operators.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/04_input.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/05_ifelse.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/06_match.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/07_f_str.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/08_loops.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/09_list.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/10_tuples_&amp;_sets.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/11_dist.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/12_file_handling.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/13_json.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/14_oops_&amp;_lambda.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/15_introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/16_data_cleaning.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/17_you_may_know.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/18_you_might_like.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/cleaned_data2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/coder of bangalor/speedtest.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/data1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/data2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/massive_data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Science/reptile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744625905028-01_python_basic.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744627016959-02_strings.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744627781796-03_operators.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744636754274-04_input.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744639322450-05_operator_precedence.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744640129986-06_if_else.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744640849629-07_match_case.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744644167120-08_f-strings.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744645287308-09_loops.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744645887159-10_lists.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744647707428-11_tuples.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744647810706-12_sets.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744647866479-13_dict_methods.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744647875152-14_file_handling.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744647887136-15_json.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744648079608-16_oops.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744648086166-17_list_comprehensions.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744648093539-18_lambda.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/1744981862239-1744979322146-Python_Refresher_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Download files Data science/Code of bangalor/1763989387785-coders-of-blr-1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/dhamo" beforeDir="false" afterPath="$PROJECT_DIR$/github/dhamo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github/dhamo/note.html" beforeDir="false" afterPath="$PROJECT_DIR$/github/dhamo/note.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/numpy &amp; pandas/DataSelection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Science/numpy &amp; pandas/DataSelection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Science/numpy &amp; pandas/DataTransformation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Science/numpy &amp; pandas/DataTransformation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Download files Data science/Code of bangalor/coders-of-bangalore1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Download files Data science/Code of bangalor/coders-of-bangalore1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,25 +26,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/RAP TILE-18",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.Jupyter Settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/RAP TILE-18&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.Jupyter Settings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
