@@ -1,3 +1,0 @@
-hello
-dharmik
-let's learn Data Science
